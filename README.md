@@ -37,7 +37,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<a href="gagan-yadav.github.io">My Portfolio Website 🔗</a>
+<a href="gagan-yadav.github.io" target="_blank">My Portfolio Website 🔗</a>
 <p align="left">🔭 I’m working as Freelancer<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time i solve coding problems</p>
 
 ###
